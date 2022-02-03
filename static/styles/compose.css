@@ -594,6 +594,12 @@ input.recipient_box {
         font-size: 20px;
         margin: 0 3px;
     }
+
+    .compose_draft_button {
+        font-size: 13px;
+        font-weight: 700;
+        font-family: "Source Sans 3", sans-serif;
+    }
 }
 
 .compose_right_float_container {
